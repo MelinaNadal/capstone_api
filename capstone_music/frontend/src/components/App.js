@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
+import CreateRoomPage from "./CreateRoomPage";
 import HomePage from "./HomePage";
 
 export default class App extends Component {
@@ -12,6 +13,7 @@ export default class App extends Component {
       <div>
           <h1>Welcome to the music lounge</h1>
         <HomePage />
+      
       </div>
     );
   }
