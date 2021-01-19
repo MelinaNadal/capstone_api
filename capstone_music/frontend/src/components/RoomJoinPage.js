@@ -79,5 +79,4 @@ export default class RoomJoinPage extends Component {
   }
 }
 
-  }
-}
+
