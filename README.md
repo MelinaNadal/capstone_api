@@ -23,7 +23,7 @@ Once "CREATE A DJ BOOTH" is clicked, it will bring you to the following screen s
 
 Everytime a "DJ BOOTH" is created, an unique key is made (THIS WAS MY FAVORITE CODE TO LEARN AND WRITE IN THIS APP! This code can be found in api/models.py). Once administered by the dj booth creator, this allows others to enter the music lounge via the "JOIN A DJ BOOTH" link which then brings them to a page that the unique key needs to be entered in order to give them access to join the desired music lounge.
 
-![Screen Shot 2021-01-22 at 6 09 44 PM](https://user-images.githubusercontent.com/73125103/105558989-03223280-5cde-11eb-93e6-4eb09003e75d.png
+![Join-a-room](https://user-images.githubusercontent.com/73125103/105560552-16370180-5ce2-11eb-9aad-492c65174c69.png)
 
 
 
