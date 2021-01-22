@@ -9,7 +9,7 @@ Django
 Python 3
 Material UI
 
-# Future Enahancements
+# Future Enhancements
 Integrate third party music API
 add a chat for each lounge created
 
